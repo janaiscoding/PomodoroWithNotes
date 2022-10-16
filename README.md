@@ -1,1 +1,10 @@
 # PomodoroWithNotes
+Pomodoro Technique App 
+
+The Pomodoro Technique was developed in the late 1980's as a time management method. 
+
+This app's goals are: 
+Store your notes about the progress towards your goal.
+Keep the timer according to the Technique. 
+Countdown your productivity sessions and your break sessions. 
+
