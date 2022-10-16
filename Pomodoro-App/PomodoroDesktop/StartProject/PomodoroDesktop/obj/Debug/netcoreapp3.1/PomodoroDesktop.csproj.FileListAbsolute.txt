@@ -1,0 +1,34 @@
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\bin\Debug\netcoreapp3.1\PomodoroDesktop.exe
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\bin\Debug\netcoreapp3.1\PomodoroDesktop.deps.json
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\bin\Debug\netcoreapp3.1\PomodoroDesktop.runtimeconfig.json
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\bin\Debug\netcoreapp3.1\PomodoroDesktop.runtimeconfig.dev.json
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\bin\Debug\netcoreapp3.1\PomodoroDesktop.dll
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\bin\Debug\netcoreapp3.1\PomodoroDesktop.pdb
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.csproj.AssemblyReference.cache
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.Pomodoro.resources
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.Properties.Resources.resources
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.csproj.GenerateResource.cache
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.AssemblyInfoInputs.cache
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.AssemblyInfo.cs
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.csproj.CoreCompileInputs.cache
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.dll
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.pdb
+C:\Users\aIamew\Desktop\projects\Learning C#\pomodoroflavors-main\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.genruntimeconfig.cache
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\bin\Debug\netcoreapp3.1\PomodoroDesktop.exe
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\bin\Debug\netcoreapp3.1\PomodoroDesktop.deps.json
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\bin\Debug\netcoreapp3.1\PomodoroDesktop.runtimeconfig.json
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\bin\Debug\netcoreapp3.1\PomodoroDesktop.runtimeconfig.dev.json
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\bin\Debug\netcoreapp3.1\PomodoroDesktop.dll
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\bin\Debug\netcoreapp3.1\PomodoroDesktop.pdb
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.csproj.AssemblyReference.cache
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.Pomodoro.resources
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.Properties.Resources.resources
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.csproj.GenerateResource.cache
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.AssemblyInfoInputs.cache
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.AssemblyInfo.cs
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.csproj.CoreCompileInputs.cache
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.dll
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.pdb
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Pomodoro-App\PomodoroDesktop\StartProject\PomodoroDesktop\obj\Debug\netcoreapp3.1\PomodoroDesktop.genruntimeconfig.cache
